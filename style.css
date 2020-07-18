@@ -29,7 +29,7 @@ text-align: right;
 .banner 
 {
     height: 80vh;
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/working-job.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(working-job.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
